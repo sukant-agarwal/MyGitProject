@@ -1,5 +1,5 @@
 This is file1 to write helloworld !!!!
-class myclass{
+class myClass{
 	public static void main(String[] args)
 	{
 		System.out.println("Hello World.....Welcome to GIT");
