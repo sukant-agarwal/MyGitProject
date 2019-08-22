@@ -9,6 +9,10 @@ class myClass{
 	}
 	public static void main(String[] args)
 	{
-		mymethod("Welcome to GIT);
+		
+		try{
+			mymethod("Welcome to GIT);
+			}
+
 	}
 }
